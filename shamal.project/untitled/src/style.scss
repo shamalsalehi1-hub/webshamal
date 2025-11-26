@@ -1,0 +1,31 @@
+$brandColor: darkorchid;
+
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(to bottom,
+    $brandColor,
+    darken($brandColor, 10%)
+  );
+  color:black;
+  height: 100vh;
+  margin: 10;
+  display: grid;
+  h1{
+    color:blue;
+    font-size:200px;
+  }
+  h3{
+    color: red;
+  }
+  img {
+        width: 50%;
+height: auto;
+    margin: 0;
+padding: 0;
+display: block;
+margin: 0;
+padding: 0;
+float: none;
+  }
+ 
+}
