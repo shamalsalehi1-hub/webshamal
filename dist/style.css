@@ -1,0 +1,25 @@
+body {
+  font-family: system-ui, sans-serif;
+  background: linear-gradient(to bottom, darkorchid, #7a28a3);
+  color: black;
+  height: 100vh;
+  margin: 10;
+  display: grid;
+}
+body h1 {
+  color: blue;
+  font-size: 200px;
+}
+body h3 {
+  color: red;
+}
+body img {
+  width: 50%;
+  height: auto;
+  margin: 0;
+  padding: 0;
+  display: block;
+  margin: 0;
+  padding: 0;
+  float: none;
+}
